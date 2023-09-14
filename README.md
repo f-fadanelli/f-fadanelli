@@ -15,12 +15,6 @@
 ![JAVA](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
 
-## Competências
-
-![Perfil DIO](https://img.shields.io/badge/-Autodidatismo-E32?style=for-the-badge)
-![Perfil DIO](https://img.shields.io/badge/-Disciplina%20Positiva-30?style=for-the-badge)
-![Perfil DIO](https://img.shields.io/badge/-Relacionamentos%20Interpessoais-30A?style=for-the-badge)
-![Perfil DIO](https://img.shields.io/badge/-Comunicação-30A3DC?style=for-the-badge)
 
 ## GitHub Stats
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=f-fadanelli&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
